@@ -1,4 +1,4 @@
-/// @description Inserir descrição aqui
+/// @description Inserir 
 // Você pode escrever
 if keyboard_check(ord("A"))
 {
