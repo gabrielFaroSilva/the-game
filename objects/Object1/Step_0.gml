@@ -1,6 +1,5 @@
 /// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
+// Você pode escrever
 if keyboard_check(ord("A"))
 {
     x = x - 2;
